@@ -13,11 +13,17 @@ Total points / (2 * (Total Field Goal Attempts + (0.44 * Total Free Throw Attemp
 Example: 
 *****************************************
 State the player's first initial: J
+
 State the player's last name: Doe
+
 Player's total points: 1000
+
 Player's total field goal attempts: 800
+
 Player's total free throw attempts: 500
 
+
 Player name: J.Doe
+
 TS%: 0.588
 *****************************************
